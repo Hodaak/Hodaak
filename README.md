@@ -1,4 +1,5 @@
 ### Hi there 👋
+Thank you for visiting my GitHub page✨! I'm Hoda Akrami, a recent graduate of the Software Engineering Technology program with a passion for developing cutting-edge software solutions. With 16 months of co-op experience, I bring a wealth of knowledge and a commitment to making a meaningful impact in the tech industry. I look forward to sharing my projects and collaborating with others in this exciting field.
 
 <!--
 **Hodaak/Hodaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
