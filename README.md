@@ -1,5 +1,11 @@
 ### Hi there 👋
-Thank you for visiting my GitHub page✨! I'm Hoda Akrami, a recent graduate of the Software Engineering Technology program with a passion for developing cutting-edge software solutions. With 16 months of co-op experience, I bring a wealth of knowledge and a commitment to making a meaningful impact in the tech industry. I look forward to sharing my projects and collaborating with others in this exciting field.
+I'm Hoda Akrami, an Intermediate Full Stack Software Developer with over 4 years of experience building scalable, customer-facing applications. I specialize in modern web technologies and have a strong passion for robust architecture, declarative infrastructure, and AI-assisted development.
+
+💻 Tech Stack: React, Redux, TypeScript, Node.js, Express, FastAPI
+🗄️ Databases: MySQL, MongoDB, Redis
+☁️ Cloud & DevOps: Microsoft Azure, Terraform, Flux, Jenkins, Docker, Kubernetes
+🚀 Currently focused on: Architecting end-to-end features, optimizing CI/CD pipelines, and writing test-driven, maintainable code.
+📫 Let's connect: linkedin.com/in/hoda-akrami-9952001ba
 
 <!--
 **Hodaak/Hodaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
