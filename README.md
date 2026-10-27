@@ -2,9 +2,13 @@
 I'm Hoda Akrami, an Intermediate Full Stack Software Developer with over 4 years of experience building scalable, customer-facing applications. I specialize in modern web technologies and have a strong passion for robust architecture, declarative infrastructure, and AI-assisted development.
 
 💻 Tech Stack: React, Redux, TypeScript, Node.js, Express, FastAPI
+
 🗄️ Databases: MySQL, MongoDB, Redis
+
 ☁️ Cloud & DevOps: Microsoft Azure, Terraform, Flux, Jenkins, Docker, Kubernetes
+
 🚀 Currently focused on: Architecting end-to-end features, optimizing CI/CD pipelines, and writing test-driven, maintainable code.
+
 📫 Let's connect: linkedin.com/in/hoda-akrami-9952001ba
 
 <!--
